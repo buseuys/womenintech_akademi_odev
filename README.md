@@ -15,3 +15,4 @@ Women In Technology - SistersLab - Python Academy Homework
 
 7- Sorting Algorithm
 
+8- Count pairs with given target
